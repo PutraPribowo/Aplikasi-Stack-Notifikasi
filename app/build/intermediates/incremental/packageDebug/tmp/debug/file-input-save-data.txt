@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 08 18:49:46 WIB 2019
+0.baseType=DIRECTORY
+0.base=/home/wingshacker/Unduhan/a14-made-labs4-master/notifikasi/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Mon Apr 08 18:49:46 WIB 2019
+base.0=/home/wingshacker/Unduhan/a14-made-labs4-master/notifikasi/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
